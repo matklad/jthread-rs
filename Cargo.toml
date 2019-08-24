@@ -1,0 +1,8 @@
+[package]
+name = "jthread"
+version = "0.1.0"
+authors = ["Aleksey Kladov <aleksey.kladov@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.62"
